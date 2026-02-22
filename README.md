@@ -5,6 +5,7 @@ Welcome to the Brew & Bloom project!
 ## Project Info
 
 This is the repository for the Brew & Bloom local business website.
+https://adil-r120.github.io/FUTURE_FS_03/
 
 ## Getting Started
 
@@ -12,8 +13,8 @@ To get started with development:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <YOUR_GIT_URL>
-    cd <YOUR_PROJECT_NAME>
+    git clone <https://adil-r120.github.io/FUTURE_FS_03/>
+    cd <Local Business Website>
     ```
 
 2.  **Install dependencies:**
