@@ -5,6 +5,8 @@ Live Demo: https://future-fs-03-b-b.vercel.app
 
 ## Project Info
 
+This website is designed to help the local business build a strong online presence and attract more customers. It showcases services clearly, provides easy contact options, and ensures a mobile-friendly experience. By improving visibility and customer accessibility, the website helps increase trust, engagement, and potential revenue growth.
+
 This is the repository for the Brew & Bloom local business website.
 https://adil-r120.github.io/FUTURE_FS_03/
 
